@@ -1,3 +1,5 @@
+Live Website Link: https://praveenachary.github.io/AKOIN/
+
 Institute of Digital Risk – Assignment Submission
 
 This concept positions the Institute of Digital Risk (IDR) as a modern,
