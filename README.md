@@ -1,10 +1,19 @@
-Assignment Submission – Institute of Digital Risk
+Institute of Digital Risk – Assignment Submission
 
-This concept positions IDR as a modern, industry-led institute
-bridging academic insight and real-world risk practice.
+This concept positions the Institute of Digital Risk (IDR) as a modern,
+industry-led body bridging academic insight and real-world risk practice.
 
-The visual identity uses an isometric cube to represent structural
-integrity and resilience in digital risk environments.
+Logo design:
+The IDR logo uses an isometric cube to symbolise structure, resilience,
+and multidimensional risk thinking. The colour palette (orange, white,
+and black) reflects urgency, clarity, and institutional authority.
+The logo is provided in two variants: icon-only and icon + wordmark.
 
+Homepage:
 The homepage is built using semantic HTML5, CSS Grid/Flexbox and
-vanilla JavaScript with responsive layouts and interactive elements.
+vanilla JavaScript with responsive layouts. It includes all required
+sections: Hero, About IDR, Service Pillars, Community, and Contact,
+along with a sticky navigation and smooth scrolling.
+
+The design aims to reflect a professional, technology-focused
+education institute operating in high-consequence digital risk domains.
